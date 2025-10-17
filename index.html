@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meme STAPLE Coin (MSTAPLE)</title>
+  <meta name="description" content="Meme STAPLE Coin connects people and technology through positive energy. Buy on PancakeSwap.">
+  <link rel="icon" href="/assets/logo.png">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="nav">
+      <div class="brand">
+        <img src="/assets/logo.png" alt="MSTAPLE logo" class="logo">
+        <h1>Meme STAPLE Coin</h1>
+      </div>
+      <div class="lang">
+        <button id="btn-en" class="active" onclick="setLang('en')">EN</button>
+        <button id="btn-hr" onclick="setLang('hr')">HR</button>
+      </div>
+    </div>
+
+    <section class="hero">
+      <div class="card">
+        <h2 data-i18n="title">Meme STAPLE Coin (MSTAPLE)</h2>
+        <p class="tagline" data-i18n="tagline">Connecting Humanity & Technology through Positive Energy.</p>
+
+        <div class="kv addr">
+          <strong data-i18n="contractLabel">Contract:</strong>
+          <code id="contract">0x891920e5b704524C81c213F78473FC837C66fF31</code>
+          <button class="copy" onclick="copyText('contract')" data-i18n="btnCopy">Copy</button>
+        </div>
+
+        <div class="kv addr">
+          <strong data-i18n="walletLabel">Project Wallet:</strong>
+          <code id="wallet">0x070Fa3c5fd21bBA4dD1e5a34Eeba7aBa0944836C</code>
+          <button class="copy" onclick="copyText('wallet')" data-i18n="btnCopy">Copy</button>
+        </div>
+
+        <div class="btns">
+          <button id="connectBtn" class="btn" onclick="connectWallet()" data-i18n="btnConnect">Connect Wallet</button>
+          <button class="btn secondary" onclick="buyOnPancake()" data-i18n="btnBuy">Buy on PancakeSwap</button>
+          <button class="btn tertiary" onclick="openChartDexTools()">Live Chart — DexTools</button>
+          <button class="btn tertiary" onclick="openChartPooCoin()">Live Chart — PooCoin</button>
+          <button class="btn tertiary" onclick="addToken()">Add MSTAPLE to MetaMask</button>
+        </div>
+      </div>
+      <div class="art"><img src="/assets/banner.png" alt="MSTAPLE banner"></div>
+    </section>
+
+    <section class="banner-text">
+      <h3 id="banner-h1">STAPLE Meme Coin — Built with Purpose, Backed by Community</h3>
+      <p id="banner-p">Now live on PancakeSwap! Buy, trade, and share positive energy through technology.</p>
+    </section>
+
+    <section class="grid">
+      <div class="stat">
+        <h3 data-i18n="aboutTitle">About</h3>
+        <p class="small" data-i18n="aboutText">Meme STAPLE Coin (MSTAPLE) is a community-driven BEP-20 token on the BNB Chain, symbolizing connection, creativity, and positive energy.</p>
+      </div>
+      <div class="stat">
+        <h3 data-i18n="keyTitle">Key Info</h3>
+        <p class="small">Network: <b>BNB Chain (BEP-20)</b></p>
+        <p class="small">Symbol: <b>MSTAPLE</b></p>
+        <p class="small">Decimals: <b>18</b></p>
+        <p class="small">Total Supply: <b>1,000,000,000</b></p>
+        <p class="small"><a href="https://bscscan.com/token/0x891920e5b704524C81c213F78473FC837C66fF31" target="_blank">BscScan</a> · <a href="https://github.com/Radmila5627/MemeSTAPLECoin" target="_blank">GitHub</a></p>
+      </div>
+    </section>
+
+    <section class="card" style="margin-top:20px">
+      <p class="small" data-i18n="cta">Ready to join? Connect your wallet and swap BNB/USDC for MSTAPLE on PancakeSwap.</p>
+    </section>
+
+    <footer class="footer">
+      <div>© 2025 Meme STAPLE Coin • <a href="https://pancakeswap.finance/swap?outputCurrency=0x891920e5b704524C81c213F78473FC837C66fF31" target="_blank">Buy</a> · <a href="https://t.me/MemeStapleCoinCommunity" target="_blank">Telegram</a> · <a href="https://www.linkedin.com/in/radmilatorovic" target="_blank">LinkedIn</a> · <a href="https://bscscan.com/token/0x891920e5b704524C81c213F78473FC837C66fF31" target="_blank">BscScan</a></div>
+    </footer>
+  </div>
+  <script src="/js/connect.js"></script>
+  <script src="/js/buy.js"></script>
+</body>
+</html>

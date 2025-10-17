@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "meme-staple-coin",
+  "routes": [
+    { "src": "/presskit", "dest": "/MSTAPLE_PRESS_KIT.html" },
+    { "src": "/(css|js|assets)/(.*)", "dest": "/$1/$2" },
+    { "src": "/.*", "dest": "/index.html" }
+  ]
+}
