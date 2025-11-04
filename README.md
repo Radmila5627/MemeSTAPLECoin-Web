@@ -40,5 +40,22 @@ Telegram: Official MSTAPLE Coin Community (coming soon)
 
 STAPLE Coin connects people and technology through creativity and positivity.
 It is a movement that transforms digital interaction into real connection, bringing warmth and human touch into the world of blockchain.
+🧩 Meme STAPLE Coin (MSTAPLE)
+
+🌐 Portfolio | Moj Blockchain Svijet
+
+<table align="center"> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/Radmila5627/MemeSTAPLECoin-Web/main/assets/%20Image%20.png" width="150" alt="MSTAPLE Logo"/> <br/> <b>Meme STAPLE Coin (MSTAPLE)</b><br/> <a href="https://vercel.com/alimdar-real-estate-tokenization/meme-staple-coin-web">🌐 Web</a> | <a href="https://github.com/Radmila5627/MemeSTAPLECoin-Web">💻 GitHub</a> | <a href="https://bscscan.com/token/0x891920e5b704524C81c213F78473FC837C66fF31">🔍 BscScan</a> </td> </tr> </table>
+
+ 🧩 Meme STAPLE Coin (MSTAPLE)
+
+🌐 Portfolio | My Blockchain World
+
+<table align="center"> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/Radmila5627/MemeSTAPLECoin-Web/main/assets/%20Image%20.png" width="150" alt="MSTAPLE Logo"/> <br/> <b>Meme STAPLE Coin (MSTAPLE)</b><br/> <a href="https://vercel.com/alimdar-real-estate-tokenization/meme-staple-coin-web">🌐 Web</a> | <a href="https://github.com/Radmila5627/MemeSTAPLECoin-Web">💻 GitHub</a> | <a href="https://bscscan.com/token/0x891920e5b704524C81c213F78473FC837C66fF31">🔍 BscScan</a> </td> </tr> </table>
+
+🪙 Description:
+<table align="center"> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/Radmila5627/MemeSTAPLECoin-Web/main/assets/%20Image%20.png" width="150" alt="MSTAPLE Logo"/> <br/> <b>Meme STAPLE Coin (MSTAPLE)</b><br/> <a href="https://vercel.com/alimdar-real-estate-tokenization/meme-staple-coin-web">🌐 Web</a> | <a href="https://github.com/Radmila5627/MemeSTAPLECoin-Web">💻 GitHub</a> | <a href="https://bscscan.com/token/0x891920e5b704524C81c213F78473FC837C66fF31">🔍 BscScan</a> </td> </tr> </table>
+Meme STAPLE Coin is a BEP-20 token that symbolizes connection, creativity and humor.
+It is built on the BNB Smart Chain and represents a bridge between people and technology.
+It is currently available for trading on PancakeSwap.
 
 © 2025 Meme STAPLE Coin • All rights reserved.
